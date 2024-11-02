@@ -1,0 +1,196 @@
+[
+    {
+        "name": "嘉定图书馆",
+        "category": "Libraries",
+        "city": "同济大学嘉定校区",
+        "state": "同济大学嘉定校区",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "嘉定图书馆",
+        "coordinates": {
+            "longitude": 121.211966,
+            "latitude": 31.286647
+        },
+        "description": "嘉定图书馆就是我的家，这是一个大到令人咋舌的图书馆，你从来不用担心需要去跟人家抢座位. 白天他是气派恢弘的包豪斯建筑，晚上他是媲美香港的骨灰盒安放大楼。 我最喜欢他装上的智能电梯，每每乘上这个电梯，我都会在脑子里面进行思想实验，等哪一天人都走完了，我一定会对着电梯说我要去一楼，然后快到的时候我说我要取消，看它会带我到哪里去",
+        "imageName": "嘉定图书馆"
+    },
+    {
+        "name": "四平图书馆",
+        "category": "Libraries",
+        "city": "同济大学四平路校区",
+        "state": "同济大学四平路校区",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "四平图书馆",
+        "coordinates": {
+            "longitude": 121.504076,
+            "latitude": 31.283331
+        },
+        "description": "四平图书馆修得非常科幻，破败的红砖外墙告诉你，他来自远古的上个世纪50年代，但是恢弘的立体感又告诉你同济扎实的土木建筑实力。与他恢弘的外表极不相称的是里面少到吃惊的座位， 正所谓来了就是客，你永远不会成为图书馆的主人，因为座位都是满的。",
+        "imageName": "四平图书馆"
+    },
+    {
+        "name": "中德图书馆",
+        "category": "Libraries",
+        "city": "同济大学四平路校区",
+        "state": "同济大学四平路校区",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "中德图书馆",
+        "coordinates": {
+            "longitude":121.500298,
+            "latitude": 31.281368
+        },
+        "description": "你真的以为来中德图书馆是来学习的吗？非也非也，一半人看樱花，一半人吹空调罢了。",
+        "imageName": "中德图书馆"
+    },
+    {
+        "name": "上海图书馆",
+        "category": "Libraries",
+        "city": "上海市静安区",
+        "state": "上海市静安区",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "上海图书馆",
+        "coordinates": {
+            "longitude": 121.444753,
+            "latitude": 31.207334
+        },
+        "description": "听说每到毕业季这个图书馆就会聚集全上海的英才，他们会煞有介事地打开他们的笔电，开始忙着不知道什么是什么的工作， 忙完一天打卡下班，并且拍个照给家人报平安，’很好很好，我的孩子有出息了，在上海落户找到了工作‘你的家人心想。 于是你又幸运地苟活了一天，找不到工作的一天",
+        "imageName": "上海图书馆"
+    },
+    {
+        "name": "西南十二.吗喽洞穴",
+        "category": "Dorms",
+        "city": "同济大学南校区（拆）",
+        "state": "同济大学南校区（拆）",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "西南十二.吗喽洞穴",
+        "coordinates": {
+            "longitude": 121.499161,
+            "latitude": 31.279464
+        },
+        "description": "不管你们怎么喷，西南十二就是我的家。就算我是一只吗喽，这也是我的洞穴，我的花果山， 灵魂栖居的地方",
+        "imageName": "西南十二.吗喽洞穴"
+    },
+    {
+        "name": "西南一.国豪雅居",
+        "category": "Dorms",
+        "city": "同济大学四平路校区",
+        "state": "同济大学四平路校区",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "西南一.国豪雅居",
+        "coordinates": {
+            "longitude": 121.499956,
+            "latitude": 31.284641
+        },
+        "description": "别成天冷嘲热讽我们国豪爷，人家比你考多了20分还跟你是同一个学校，你不知道压力有多大吗？而且还要比你学更多的课程，最后还要面临卡绩点的压力， 而且保研也不能保到外校，所以你还不能让我住个好点的宿舍吗？还不能让我看着陶喆在我宿舍门口开演唱会吗？大家散了吧。",
+        "imageName": "西南一.国豪雅居"
+    },
+    {
+        "name": "友园五.我的小窝",
+        "category": "Dorms",
+        "city": "同济大学嘉定校区",
+        "state": "同济大学嘉定校区",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "友园五.我的小窝",
+        "coordinates": {
+            "longitude": 121.217675,
+            "latitude": 31.28664
+        },
+        "description": "在傻逼西南十二沉淀了一年，终于也给我住上大别野了。依山傍水，市区中环， 坐拥成功人生。 成功，并不是高瞻远瞩，而是本来就住在高处，运筹帷幄，掌控未来，记住你的名字叫做友园五",
+        "imageName": "友园五.我的小窝"
+    },
+
+    {
+        "name": "嘿，老伙计",
+        "category": "开发者和他的朋友们",
+        "city": "广东省韶关市",
+        "state": "广东省韶关市",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "嘿，老伙计",
+        "coordinates": {
+            "longitude": 113.5966,
+            "latitude": 24.795684
+        },
+        "description": "Man, what can I say？Friendship‘s never out",
+        "imageName": "嘿，老伙计"
+    },
+    {
+        "name": "我们是癫仔！",
+        "category": "开发者和他的朋友们",
+        "city": "广东省揭阳市",
+        "state": "广东省揭阳市",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "我们是癫仔！",
+        "coordinates": {
+            "longitude": 116.357938,
+            "latitude": 23.534941
+        },
+        "description": "真的忘不了这群颠仔朋友，忘不了我的精神故乡，所有一切好呷的好玩的好看的，还有最热情招待我的好朋友。如果我能重开，我能不能投胎到这里来？",
+        "imageName": "我们是癫仔！"
+    },
+    {
+        "name": "诗和远方",
+        "category": "开发者和他的朋友们",
+        "city": "上海市崇明岛",
+        "state": "上海市崇明岛",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "诗和远方",
+        "coordinates": {
+            "longitude": 121.963661,            
+            "latitude": 31.499301
+        },
+        "description": "如果没有你俩，我可能真就成为了大家所说的技术宅，但你们对我的关照，让我从未有放弃对生活对远方的热爱。就让我们一直在这十里洋场，做个快乐的叉烧吧",
+        "imageName": "诗和远方"
+    },
+    {
+        "name": "为了一起改造世界!",
+        "category": "开发者和他的朋友们",
+        "city": "同济大学四平路校区",
+        "state": "同济大学四平路校区",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "为了一起改造世界!",
+        "coordinates": {
+            "longitude": 121.503718,
+            "latitude": 31.280091
+        },
+        "description": "人生得一知己足矣！",
+        "imageName": "为了一起改造世界!"
+    },
+    {
+        "name": "忘不了的挚友，和追不到的女孩",
+        "category": "开发者和他的朋友们",
+        "city": "复旦大学邯郸校区",
+        "state": "复旦大学邯郸校区",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "忘不了的挚友，和追不到的女孩",
+        "coordinates": {
+            "longitude": 121.505234,
+            "latitude": 31.291825
+        },
+        "description": "我想对你问人生三问，egg，你忘记去吃我那天做的麻辣蛋糕了，真是遗憾啊。国炫，我希望那天能够不回宿舍跟你一起在雨里面骑车疯疯癫癫，我觉得这才是人生。还有你璟婷，我希望你一切都好",
+        "imageName": "忘不了的挚友，和追不到的女孩"
+    },
+
+]
